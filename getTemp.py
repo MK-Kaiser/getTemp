@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Author: Mark Kaiser
+# Date: 03/28/2020
+# Description: Parses weather from the web.
 
 import bs4, requests, argparse
 
